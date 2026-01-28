@@ -1,6 +1,6 @@
 # Hi there, I'm Luka! 👋
 
-### 🚀 Junior Android/Kotlin Developer
+###  Junior Android/Kotlin Developer
 I am a passionate developer focused on building efficient and user-friendly mobile applications. I enjoy exploring new technologies and integrating AI tools to optimize my workflow.
 
 ---

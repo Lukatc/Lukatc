@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Luka! 👋
 
-<!--
-**Lukatc/Lukatc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Junior Android/Kotlin Developer
+I am a passionate developer focused on building efficient and user-friendly mobile applications. I enjoy exploring new technologies and integrating AI tools to optimize my workflow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+* **Languages:** Kotlin, Java
+* **Mobile:** Android SDK, Jetpack Compose
+* **Tools:** Git, GitHub, Android Studio
+
+### 🤖 AI Tools I Use
+* **ChatGPT / Gemini:** For brainstorming architecture and debugging.
+* **GitHub Copilot:** For speedier coding and boilerplate generation.
+* **Cursor:** For deep-context AI assistance.
+
+---
+
+### 🔗 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/lukatchalidze/)
